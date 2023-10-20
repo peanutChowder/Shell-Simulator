@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# vscode
+.vscode/
+
+# test files
+tester.cpp
+tester
+sleeper.cpp
+sleeper
+repeater.cpp
+repeater
+longLoop.cpp
+longLoop
+*.tar.gz
+*.txt
